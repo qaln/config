@@ -1,0 +1,8 @@
+set relativenumber
+let mapleader = " "
+noremap <Leader>y "*y
+noremap <Leader>p "*p
+set shell=powershell.exe
+set shellcmdflag=-command
+set shellquote=\"
+set shellxquote=
